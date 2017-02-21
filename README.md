@@ -1,2 +1,2 @@
 # Hello-GitHub
-Hellow GitHub
+  Nothing but a sign as my encounter with GitHub.
